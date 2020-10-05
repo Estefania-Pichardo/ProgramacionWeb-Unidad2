@@ -1,0 +1,26 @@
+﻿@model U2Actividad5Servicios.Models.Clase
+@{
+    Layout = "_Layout";
+}
+
+<main>
+    <h1>@Model.Nombre</h1>
+
+    <ul class="especies">
+        @foreach (var animal in Model.Especies)
+        {
+            <li>
+                <div>
+                    <img src="~/especies/@(animal.Id).jpg">
+                </div>
+                <h2>@animal.Especie </h2>
+                <p><label>Habitat: </label>@animal.Habitat</p>
+                <p><label>Peso: </label>@animal.Peso</p>
+                <p><label>Tamaño: </label>@animal.Tamaño</p>
+                <p>@animal.Observaciones</p>
+            </li>
+        }
+
+    </ul>
+</main>
+

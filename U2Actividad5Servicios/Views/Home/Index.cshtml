@@ -1,0 +1,27 @@
+﻿@model U2Actividad5Servicios.Models.ViewModels.IndexViewModel
+@{
+    Layout = "_Layout";
+} 
+<main>
+    <div class="slides">
+        <img src="~/images/carousel@(Model.Imagen).jpg">
+    </div>
+
+    <h1>Clasificación de los vertebrados</h1>
+
+    <div class="clases">
+        @foreach (var clasificacion in Model.Clase)
+        {
+            <div>
+                <a href="~/@clasificacion.Nombre.Replace(" ","-")">
+                    <img src="~/clases/@(clasificacion.Id).jpg">
+                    <h1>@clasificacion.Nombre</h1>
+                    <p>@clasificacion.Descripcion</p>
+                </a>
+            </div>
+        }
+
+
+    </div>
+</main>
+

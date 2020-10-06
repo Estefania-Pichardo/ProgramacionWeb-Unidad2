@@ -7,6 +7,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Actividad1Parametros171G024
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica2", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\Practica2\Practica2\Practica2.csproj", "{64201757-2663-4BF9-BF1C-B21BA789E34C}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unidad2Actividad2", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\Unidad2Actividad2\Unidad2Actividad2\Unidad2Actividad2.csproj", "{A230C8D8-80AB-475B-A51B-881F9F24966A}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +23,10 @@ Global
 		{64201757-2663-4BF9-BF1C-B21BA789E34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{64201757-2663-4BF9-BF1C-B21BA789E34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{64201757-2663-4BF9-BF1C-B21BA789E34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A230C8D8-80AB-475B-A51B-881F9F24966A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A230C8D8-80AB-475B-A51B-881F9F24966A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A230C8D8-80AB-475B-A51B-881F9F24966A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A230C8D8-80AB-475B-A51B-881F9F24966A}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

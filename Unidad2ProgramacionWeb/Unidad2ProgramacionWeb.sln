@@ -11,6 +11,8 @@ Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unidad2Actividad2", "..\..\
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U2Actividad4Routing", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\U2Actividad4Routing\U2Actividad4Routing\U2Actividad4Routing.csproj", "{89D5D342-5C8E-450D-9091-6CB288A9C143}"
 EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U2Actividad5Servicios", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\U2Actividad5Servicios\U2Actividad5Servicios\U2Actividad5Servicios.csproj", "{BED34EA0-432D-44A9-9911-4FEDE103E080}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -33,6 +35,10 @@ Global
 		{89D5D342-5C8E-450D-9091-6CB288A9C143}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{89D5D342-5C8E-450D-9091-6CB288A9C143}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{89D5D342-5C8E-450D-9091-6CB288A9C143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED34EA0-432D-44A9-9911-4FEDE103E080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED34EA0-432D-44A9-9911-4FEDE103E080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED34EA0-432D-44A9-9911-4FEDE103E080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED34EA0-432D-44A9-9911-4FEDE103E080}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

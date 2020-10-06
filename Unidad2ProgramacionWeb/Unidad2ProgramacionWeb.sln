@@ -1,0 +1,49 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.30406.217
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Actividad1Parametros171G0242", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\PrograWebU2A1PasarParametros\Actividad1Parametros171G0242\Actividad1Parametros171G0242.csproj", "{99ACA49A-DAB8-45EF-A443-92C5DC011737}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Practica2", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\Practica2\Practica2\Practica2.csproj", "{64201757-2663-4BF9-BF1C-B21BA789E34C}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "Unidad2Actividad2", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\Unidad2Actividad2\Unidad2Actividad2\Unidad2Actividad2.csproj", "{A230C8D8-80AB-475B-A51B-881F9F24966A}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U2Actividad4Routing", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\U2Actividad4Routing\U2Actividad4Routing\U2Actividad4Routing.csproj", "{89D5D342-5C8E-450D-9091-6CB288A9C143}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "U2Actividad5Servicios", "..\..\..\..\..\Documents\7mo Semestre\Programacion Web\Unidad2\U2Actividad5Servicios\U2Actividad5Servicios\U2Actividad5Servicios.csproj", "{BED34EA0-432D-44A9-9911-4FEDE103E080}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{99ACA49A-DAB8-45EF-A443-92C5DC011737}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{99ACA49A-DAB8-45EF-A443-92C5DC011737}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{99ACA49A-DAB8-45EF-A443-92C5DC011737}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{99ACA49A-DAB8-45EF-A443-92C5DC011737}.Release|Any CPU.Build.0 = Release|Any CPU
+		{64201757-2663-4BF9-BF1C-B21BA789E34C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{64201757-2663-4BF9-BF1C-B21BA789E34C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{64201757-2663-4BF9-BF1C-B21BA789E34C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{64201757-2663-4BF9-BF1C-B21BA789E34C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A230C8D8-80AB-475B-A51B-881F9F24966A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A230C8D8-80AB-475B-A51B-881F9F24966A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A230C8D8-80AB-475B-A51B-881F9F24966A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A230C8D8-80AB-475B-A51B-881F9F24966A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{89D5D342-5C8E-450D-9091-6CB288A9C143}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{89D5D342-5C8E-450D-9091-6CB288A9C143}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{89D5D342-5C8E-450D-9091-6CB288A9C143}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{89D5D342-5C8E-450D-9091-6CB288A9C143}.Release|Any CPU.Build.0 = Release|Any CPU
+		{BED34EA0-432D-44A9-9911-4FEDE103E080}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BED34EA0-432D-44A9-9911-4FEDE103E080}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BED34EA0-432D-44A9-9911-4FEDE103E080}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BED34EA0-432D-44A9-9911-4FEDE103E080}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {610971DE-E742-4D7E-A70E-0DCF8DFAAE66}
+	EndGlobalSection
+EndGlobal
